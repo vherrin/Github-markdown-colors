@@ -1,3 +1,4 @@
 # markdowntest
 
-<span style="color:orange;">Word up</span>
+- this is a test
++ this s a test
