@@ -1,4 +1,6 @@
 # markdowntest
 
-- this is a test
-+ this s a test
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
