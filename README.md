@@ -2,7 +2,7 @@
 
 
 
-<a><img src="https://img.shields.io/badge/-green-green.svg?colorA=ffffff&colorB=00CC00&style=for-the-badge"/></a>
+<a><img src="https://img.shields.io/badge/-green-green.svg?colorA=aaaaaa&colorB=00CC00&style=for-the-badge&logoWidth=40"/></a>
 
 <a><img src="https://img.shields.io/badge/-yellow-yellow.svg?colorA=ffffff&colorB=0000CC&style=for-the-badge"/></a>
 
