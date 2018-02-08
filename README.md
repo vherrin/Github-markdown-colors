@@ -1,3 +1,3 @@
 # markdowntest
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<span style="color:orange;">Word up</span>
